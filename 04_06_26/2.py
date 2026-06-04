@@ -1,0 +1,5 @@
+print ("haiii :3")
+print(4*67*78-23*78+78*89+4-12367)
+print(4)
+print("byeee :DDD")
+print(2**10)
